@@ -1,0 +1,5264 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>6h Precipitation</VAR>
+<UNIT>mm/6h</UNIT>
+<PERIOD>20230101-20230201</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.397222191     </MEAN_OBS>
+ <STDV_OBS>  0.789643824     </STDV_OBS>
+ <EXP>
+ <ID>        6418 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.431966692     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   1.01631427     </BIAS>
+ <RMSE> -0.109109893     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6418 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.01308763     </BIAS>
+ <RMSE> -0.108156770     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.263157904     </MEAN_OBS>
+ <STDV_OBS>  0.904876590     </STDV_OBS>
+ <EXP>
+ <ID>       26629 </ID>
+ <NAME>REF</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>  0.341488481     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>  0.711000681     </BIAS>
+ <RMSE>  0.576955378     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26629 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.714614511     </BIAS>
+ <RMSE>  0.591671288     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.41692651E-03 </STDV_OBS>
+ <EXP>
+ <ID>       26502 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   9.38951969E-04 </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>   7.74713641E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26502 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.33589108E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.00773382     </MEAN_OBS>
+ <STDV_OBS>   2.20343018     </STDV_OBS>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.41485500     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>   1.65585840     </BIAS>
+ <RMSE>  0.892086208     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.87911451     </BIAS>
+ <RMSE>  0.819897234     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.08800042     </MEAN_OBS>
+ <STDV_OBS>   2.55938268     </STDV_OBS>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.52138674     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   1.11417997     </BIAS>
+ <RMSE>  0.940740287     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.09814346     </BIAS>
+ <RMSE>  0.926888883     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.85040009     </MEAN_OBS>
+ <STDV_OBS>   2.35510564     </STDV_OBS>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.59343290     </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>   1.37539601     </BIAS>
+ <RMSE>  0.879881978     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.29747117     </BIAS>
+ <RMSE>  0.891017854     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.74933219     </MEAN_OBS>
+ <STDV_OBS>   3.33654070     </STDV_OBS>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   2.02158451     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>   1.25671816     </BIAS>
+ <RMSE>  0.916069090     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.25117409     </BIAS>
+ <RMSE>  0.928411007     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.46613216     </MEAN_OBS>
+ <STDV_OBS>   2.41378689     </STDV_OBS>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.75217533     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>   1.28549886     </BIAS>
+ <RMSE>  0.859068513     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15215933     </BIAS>
+ <RMSE>  0.882548332     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.74426639     </MEAN_OBS>
+ <STDV_OBS>   2.33669901     </STDV_OBS>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.58053541     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>   1.26652014     </BIAS>
+ <RMSE>  0.883955061     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18815994     </BIAS>
+ <RMSE>  0.899453461     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.59866631     </MEAN_OBS>
+ <STDV_OBS>   2.38241577     </STDV_OBS>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.40723503     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>   1.19074893     </BIAS>
+ <RMSE>  0.900752664     </RMSE>
+ <CORR>   4.59779690E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.39332426     </BIAS>
+ <RMSE>  0.860124648     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.807733417     </MEAN_OBS>
+ <STDV_OBS>   2.33480096     </STDV_OBS>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.31060672     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>   1.26149583     </BIAS>
+ <RMSE>  0.929488480     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.11081707     </BIAS>
+ <RMSE>  0.930625260     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.63999963     </MEAN_OBS>
+ <STDV_OBS>   2.54568362     </STDV_OBS>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.69591928     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>   1.39734638     </BIAS>
+ <RMSE>  0.871435583     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15258884     </BIAS>
+ <RMSE>  0.911260366     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.900533259     </MEAN_OBS>
+ <STDV_OBS>   2.62253666     </STDV_OBS>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.67545211     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   1.47266448     </BIAS>
+ <RMSE>  0.897641718     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.40703261     </BIAS>
+ <RMSE>  0.899492502     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.77558279     </MEAN_OBS>
+ <STDV_OBS>   3.70575023     </STDV_OBS>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>REF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   5.26085234     </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>   1.70606863     </BIAS>
+ <RMSE>  0.876337230     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.27553439     </BIAS>
+ <RMSE>  0.787461638     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   10.9847479     </MEAN_OBS>
+ <STDV_OBS>   3.98063922     </STDV_OBS>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>REF</NAME>
+ <NUM>          59 </NUM>
+ <MEAN>   7.84146166     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>   3.59777331     </BIAS>
+ <RMSE>  0.842601180     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          59 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.67034292     </BIAS>
+ <RMSE>  0.835572839     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   11.4961529     </MEAN_OBS>
+ <STDV_OBS>   2.02540064     </STDV_OBS>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>REF</NAME>
+ <NUM>          26 </NUM>
+ <MEAN>   10.2233677     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>   2.10209131     </BIAS>
+ <RMSE>  0.442255020     </RMSE>
+ <CORR>   4.59779690E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          26 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.04792070     </BIAS>
+ <RMSE>  0.454576641     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.02499962     </MEAN_OBS>
+ <STDV_OBS>   3.94544697     </STDV_OBS>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>REF</NAME>
+ <NUM>          56 </NUM>
+ <MEAN>   5.54045534     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>   2.05781889     </BIAS>
+ <RMSE>  0.922573090     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          56 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.00233221     </BIAS>
+ <RMSE>  0.928006649     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.14507294     </MEAN_OBS>
+ <STDV_OBS>   3.74896026     </STDV_OBS>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>REF</NAME>
+ <NUM>          71 </NUM>
+ <MEAN>   5.43169451     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   3.52507782     </BIAS>
+ <RMSE>  0.308394462     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          71 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.61428165     </BIAS>
+ <RMSE>  0.291807681     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.22380877     </MEAN_OBS>
+ <STDV_OBS>   2.64042926     </STDV_OBS>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>REF</NAME>
+ <NUM>          42 </NUM>
+ <MEAN>   6.59078121     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>   1.31275392     </BIAS>
+ <RMSE>  0.872013152     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          42 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.40800011     </BIAS>
+ <RMSE>  0.844850183     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.42403841     </MEAN_OBS>
+ <STDV_OBS>   3.82360458     </STDV_OBS>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>REF</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>   4.59181452     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>   2.46197724     </BIAS>
+ <RMSE>  0.796166599     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.45565343     </BIAS>
+ <RMSE>  0.796125174     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.42678595     </MEAN_OBS>
+ <STDV_OBS>   1.74077106     </STDV_OBS>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>REF</NAME>
+ <NUM>          56 </NUM>
+ <MEAN>   5.41130304     </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>   1.97955835     </BIAS>
+ <RMSE>  0.759812891     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          56 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.23899269     </BIAS>
+ <RMSE>  0.637075126     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.45757389     </MEAN_OBS>
+ <STDV_OBS>   3.74392581     </STDV_OBS>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>REF</NAME>
+ <NUM>          66 </NUM>
+ <MEAN>   6.08048153     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>   2.53250265     </BIAS>
+ <RMSE>  0.854291558     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          66 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.51027584     </BIAS>
+ <RMSE>  0.857031524     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.58031476     </MEAN_OBS>
+ <STDV_OBS>   2.45323133     </STDV_OBS>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>REF</NAME>
+ <NUM>         127 </NUM>
+ <MEAN>   1.46563375     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   1.60273099     </BIAS>
+ <RMSE>  0.901492894     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         127 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.60049570     </BIAS>
+ <RMSE>  0.901088893     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.51219368     </MEAN_OBS>
+ <STDV_OBS>   2.80814362     </STDV_OBS>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>REF</NAME>
+ <NUM>          41 </NUM>
+ <MEAN>   6.76522636     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>   1.22121823     </BIAS>
+ <RMSE>  0.929565847     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          41 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.21394873     </BIAS>
+ <RMSE>  0.930279613     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   11.7076941     </MEAN_OBS>
+ <STDV_OBS>   2.83139801     </STDV_OBS>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>REF</NAME>
+ <NUM>          26 </NUM>
+ <MEAN>   11.1872044     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>   2.04802799     </BIAS>
+ <RMSE>  0.778754294     </RMSE>
+ <CORR>   4.59779690E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          26 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.06098914     </BIAS>
+ <RMSE>  0.775402784     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.43777895     </MEAN_OBS>
+ <STDV_OBS>   2.06540871     </STDV_OBS>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>REF</NAME>
+ <NUM>          45 </NUM>
+ <MEAN>   5.98781061     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>   1.15822542     </BIAS>
+ <RMSE>  0.887384117     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          45 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.23190641     </BIAS>
+ <RMSE>  0.871707559     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.45217466     </MEAN_OBS>
+ <STDV_OBS>   4.06017971     </STDV_OBS>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>REF</NAME>
+ <NUM>          23 </NUM>
+ <MEAN>   5.82193184     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>   1.44750321     </BIAS>
+ <RMSE>  0.951035321     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          23 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43097305     </BIAS>
+ <RMSE>  0.943618655     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.57325995     </MEAN_OBS>
+ <STDV_OBS>   2.44130874     </STDV_OBS>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   1.86641061     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>   1.50468600     </BIAS>
+ <RMSE>  0.838577211     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.37480235     </BIAS>
+ <RMSE>  0.828292429     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.55187106     </MEAN_OBS>
+ <STDV_OBS>   2.45214844     </STDV_OBS>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   1.94968867     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   1.13210201     </BIAS>
+ <RMSE>  0.877457559     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.20547962     </BIAS>
+ <RMSE>  0.870708585     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.25219440     </MEAN_OBS>
+ <STDV_OBS>   2.27229548     </STDV_OBS>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.85410738     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>   2.39271855     </BIAS>
+ <RMSE>  0.794015646     </RMSE>
+ <CORR>   4.59779690E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.41570401     </BIAS>
+ <RMSE>  0.783388138     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.41657770     </MEAN_OBS>
+ <STDV_OBS>   1.86115730     </STDV_OBS>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   1.45534527     </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>   1.16269696     </BIAS>
+ <RMSE>  0.822153807     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19715285     </BIAS>
+ <RMSE>  0.812639058     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.826738119     </MEAN_OBS>
+ <STDV_OBS>   2.09555340     </STDV_OBS>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   1.82445526     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>   1.24584198     </BIAS>
+ <RMSE>  0.795259893     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.34680080     </BIAS>
+ <RMSE>  0.794399738     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.31925130     </MEAN_OBS>
+ <STDV_OBS>   2.06343031     </STDV_OBS>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   1.55086172     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>  0.932142556     </BIAS>
+ <RMSE>  0.895400763     </RMSE>
+ <CORR>   4.59779690E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.926009774     </BIAS>
+ <RMSE>  0.899845362     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.54090893     </MEAN_OBS>
+ <STDV_OBS>   2.60960078     </STDV_OBS>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   2.19088054     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>   1.33366966     </BIAS>
+ <RMSE>  0.850834727     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.40172839     </BIAS>
+ <RMSE>  0.858524621     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.15909123     </MEAN_OBS>
+ <STDV_OBS>   2.34054184     </STDV_OBS>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   2.45882988     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>   1.68375850     </BIAS>
+ <RMSE>  0.796551824     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48899472     </BIAS>
+ <RMSE>  0.837831497     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.39064264     </MEAN_OBS>
+ <STDV_OBS>   2.09521198     </STDV_OBS>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   2.04535627     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>  0.925654769     </BIAS>
+ <RMSE>  0.902318418     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.935456455     </BIAS>
+ <RMSE>  0.896576583     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.52532339     </MEAN_OBS>
+ <STDV_OBS>   2.57869840     </STDV_OBS>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   2.32980227     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>   1.70992815     </BIAS>
+ <RMSE>  0.924902916     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.76780450     </BIAS>
+ <RMSE>  0.905524731     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.11738062     </MEAN_OBS>
+ <STDV_OBS>   2.15280747     </STDV_OBS>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   1.66231668     </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>  0.904627204     </BIAS>
+ <RMSE>  0.904318273     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.969484031     </BIAS>
+ <RMSE>  0.892980397     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.20000100     </MEAN_OBS>
+ <STDV_OBS>   2.21826649     </STDV_OBS>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   1.52465904     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   1.11268783     </BIAS>
+ <RMSE>  0.859486222     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18494987     </BIAS>
+ <RMSE>  0.864491165     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.63074899     </MEAN_OBS>
+ <STDV_OBS>   2.53128457     </STDV_OBS>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.50475657     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>   1.43608534     </BIAS>
+ <RMSE>  0.836595833     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.34505653     </BIAS>
+ <RMSE>  0.859627008     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.89379764     </MEAN_OBS>
+ <STDV_OBS>   2.10520530     </STDV_OBS>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.61742651     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>   1.38238108     </BIAS>
+ <RMSE>  0.877630889     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.29697001     </BIAS>
+ <RMSE>  0.889093876     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.58682227     </MEAN_OBS>
+ <STDV_OBS>   2.28492475     </STDV_OBS>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.79102874     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>   2.37729979     </BIAS>
+ <RMSE>  0.848726451     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.37451744     </BIAS>
+ <RMSE>  0.848735869     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.64883661     </MEAN_OBS>
+ <STDV_OBS>   1.94935191     </STDV_OBS>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.31959176     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   1.64549148     </BIAS>
+ <RMSE>  0.852942288     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.67058754     </BIAS>
+ <RMSE>  0.844760835     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.12566936     </MEAN_OBS>
+ <STDV_OBS>   1.99120283     </STDV_OBS>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   1.29953051     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>  0.929079950     </BIAS>
+ <RMSE>  0.886750638     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.957235932     </BIAS>
+ <RMSE>  0.880986929     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.16229916     </MEAN_OBS>
+ <STDV_OBS>   1.99206519     </STDV_OBS>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   1.21128035     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>   1.00939608     </BIAS>
+ <RMSE>  0.851514339     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.996283889     </BIAS>
+ <RMSE>  0.866617322     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.23502970     </MEAN_OBS>
+ <STDV_OBS>   2.47074246     </STDV_OBS>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   2.39056730     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>   1.37194705     </BIAS>
+ <RMSE>  0.903631270     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.35149610     </BIAS>
+ <RMSE>  0.900116503     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.75695026     </MEAN_OBS>
+ <STDV_OBS>   2.38463902     </STDV_OBS>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   1.96945477     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>   1.05666900     </BIAS>
+ <RMSE>  0.897482872     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03185618     </BIAS>
+ <RMSE>  0.902469039     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.69224608     </MEAN_OBS>
+ <STDV_OBS>   2.36054182     </STDV_OBS>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   1.96712315     </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>   1.05551720     </BIAS>
+ <RMSE>  0.900664270     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.13723123     </BIAS>
+ <RMSE>  0.885068417     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.85481465     </MEAN_OBS>
+ <STDV_OBS>   2.53858185     </STDV_OBS>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   2.00487065     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>  0.915112793     </BIAS>
+ <RMSE>  0.950761437     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.979796052     </BIAS>
+ <RMSE>  0.939898968     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.58609748     </MEAN_OBS>
+ <STDV_OBS>   2.12398267     </STDV_OBS>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>REF</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   1.31964982     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>   1.41460180     </BIAS>
+ <RMSE>  0.827883542     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         374 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43437696     </BIAS>
+ <RMSE>  0.821058691     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.07803488     </MEAN_OBS>
+ <STDV_OBS>   2.02011180     </STDV_OBS>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.51361251     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>   1.02171433     </BIAS>
+ <RMSE>  0.880060554     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.01350176     </BIAS>
+ <RMSE>  0.885249972     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.16773391     </MEAN_OBS>
+ <STDV_OBS>   2.11394930     </STDV_OBS>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.65199971     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>   1.11136961     </BIAS>
+ <RMSE>  0.816549122     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.20029330     </BIAS>
+ <RMSE>  0.823922098     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.50666595     </MEAN_OBS>
+ <STDV_OBS>   3.04439354     </STDV_OBS>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   2.00761843     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>   1.13888860     </BIAS>
+ <RMSE>  0.919456661     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.20928371     </BIAS>
+ <RMSE>  0.920271337     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.31226647     </MEAN_OBS>
+ <STDV_OBS>   1.95150948     </STDV_OBS>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.39301872     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   1.15672612     </BIAS>
+ <RMSE>  0.843109846     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.06663990     </BIAS>
+ <RMSE>  0.855636775     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.36986566     </MEAN_OBS>
+ <STDV_OBS>   2.27844501     </STDV_OBS>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.80012286     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>   1.25444472     </BIAS>
+ <RMSE>  0.818720937     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.46911657     </BIAS>
+ <RMSE>  0.768988132     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.36373246     </MEAN_OBS>
+ <STDV_OBS>   2.23641753     </STDV_OBS>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.63797462     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>   1.19305694     </BIAS>
+ <RMSE>  0.858940601     </RMSE>
+ <CORR>   4.59779690E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.24697936     </BIAS>
+ <RMSE>  0.842398822     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.57200050     </MEAN_OBS>
+ <STDV_OBS>   2.62084460     </STDV_OBS>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.93602943     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>   1.52288091     </BIAS>
+ <RMSE>  0.810533345     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.64909601     </BIAS>
+ <RMSE>  0.799097240     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.59534883     </MEAN_OBS>
+ <STDV_OBS>   3.68637395     </STDV_OBS>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>REF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   2.96369123     </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>   1.25309503     </BIAS>
+ <RMSE>  0.941774189     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.22256422     </BIAS>
+ <RMSE>  0.944100618     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.78166676     </MEAN_OBS>
+ <STDV_OBS>   3.96484065     </STDV_OBS>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>REF</NAME>
+ <NUM>          60 </NUM>
+ <MEAN>   4.45287037     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   2.51521540     </BIAS>
+ <RMSE>  0.775298834     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          60 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.48379588     </BIAS>
+ <RMSE>  0.777672231     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.85409784     </MEAN_OBS>
+ <STDV_OBS>   4.56176853     </STDV_OBS>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>REF</NAME>
+ <NUM>          61 </NUM>
+ <MEAN>   5.26092768     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>   2.84803820     </BIAS>
+ <RMSE>  0.779541314     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          61 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.82408023     </BIAS>
+ <RMSE>  0.782137215     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.13137269     </MEAN_OBS>
+ <STDV_OBS>   4.23161650     </STDV_OBS>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>REF</NAME>
+ <NUM>          51 </NUM>
+ <MEAN>   4.45443249     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>   1.61187530     </BIAS>
+ <RMSE>  0.931536973     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          51 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.59285438     </BIAS>
+ <RMSE>  0.931307197     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.425555736     </MEAN_OBS>
+ <STDV_OBS>   2.08107185     </STDV_OBS>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>REF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>  0.835311294     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>   1.22911215     </BIAS>
+ <RMSE>  0.936354339     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.21851802     </BIAS>
+ <RMSE>  0.936835468     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.21206903     </MEAN_OBS>
+ <STDV_OBS>   2.20537543     </STDV_OBS>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>REF</NAME>
+ <NUM>          58 </NUM>
+ <MEAN>   1.49141037     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   1.16441143     </BIAS>
+ <RMSE>  0.892488480     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          58 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18439949     </BIAS>
+ <RMSE>  0.888014495     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.17073178     </MEAN_OBS>
+ <STDV_OBS>   3.35287619     </STDV_OBS>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>REF</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>   2.80981994     </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>   1.64429891     </BIAS>
+ <RMSE>  0.893554330     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.50289249     </BIAS>
+ <RMSE>  0.911817372     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.26444447     </MEAN_OBS>
+ <STDV_OBS>   2.75326061     </STDV_OBS>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>REF</NAME>
+ <NUM>          45 </NUM>
+ <MEAN>   2.08235884     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>   1.17274523     </BIAS>
+ <RMSE>  0.908624709     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          45 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.13619840     </BIAS>
+ <RMSE>  0.914015830     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.914999962     </MEAN_OBS>
+ <STDV_OBS>   2.06988025     </STDV_OBS>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>REF</NAME>
+ <NUM>          60 </NUM>
+ <MEAN>   1.20484841     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>  0.787169814     </BIAS>
+ <RMSE>  0.942318022     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          60 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.745246708     </BIAS>
+ <RMSE>  0.948567569     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.707692385     </MEAN_OBS>
+ <STDV_OBS>   1.95622563     </STDV_OBS>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>REF</NAME>
+ <NUM>          65 </NUM>
+ <MEAN>   1.37801087     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>   1.69368732     </BIAS>
+ <RMSE>  0.462941676     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          65 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.74304509     </BIAS>
+ <RMSE>  0.445533574     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.82916641     </MEAN_OBS>
+ <STDV_OBS>   2.30627036     </STDV_OBS>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   1.77473080     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>   1.93993592     </BIAS>
+ <RMSE>  0.591741741     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.91039634     </BIAS>
+ <RMSE>  0.595446825     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.56046522     </MEAN_OBS>
+ <STDV_OBS>   2.01534724     </STDV_OBS>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>REF</NAME>
+ <NUM>          43 </NUM>
+ <MEAN>   1.35050929     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>   2.02610755     </BIAS>
+ <RMSE>  0.632233679     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          43 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.25664759     </BIAS>
+ <RMSE>  0.504905105     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.67638874     </MEAN_OBS>
+ <STDV_OBS>   2.34305096     </STDV_OBS>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   1.56192362     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>  0.799549878     </BIAS>
+ <RMSE>  0.950854719     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.809943676     </BIAS>
+ <RMSE>  0.949774921     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.91805565     </MEAN_OBS>
+ <STDV_OBS>   2.26736331     </STDV_OBS>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   1.68055546     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   1.52835739     </BIAS>
+ <RMSE>  0.828500748     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.58471084     </BIAS>
+ <RMSE>  0.813917398     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.888888896     </MEAN_OBS>
+ <STDV_OBS>   2.14914012     </STDV_OBS>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   1.06856406     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>   1.39824557     </BIAS>
+ <RMSE>  0.771223843     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.41415679     </BIAS>
+ <RMSE>  0.762137294     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.341666639     </MEAN_OBS>
+ <STDV_OBS>  0.725077927     </STDV_OBS>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.390687406     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>  0.565186381     </BIAS>
+ <RMSE>  0.541666389     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.622773588     </BIAS>
+ <RMSE>  0.530782163     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.158333346     </MEAN_OBS>
+ <STDV_OBS>  0.434199780     </STDV_OBS>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.225530043     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>  0.335736752     </BIAS>
+ <RMSE>  0.667307496     </RMSE>
+ <CORR>   4.59779690E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.345556647     </BIAS>
+ <RMSE>  0.608558059     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.81250000     </MEAN_OBS>
+ <STDV_OBS>   1.69309258     </STDV_OBS>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.909995079     </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>   1.80738842     </BIAS>
+ <RMSE>  0.811244667     </RMSE>
+ <CORR>   4.59779690E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.90801203     </BIAS>
+ <RMSE>  0.786242485     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.72222257E-03 </MEAN_OBS>
+ <STDV_OBS>  0.170240581     </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   7.37606063E-02 </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>  0.116900802     </BIAS>
+ <RMSE>  0.627281666     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.151328787     </BIAS>
+ <RMSE>  0.654563367     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.80555582E-02 </MEAN_OBS>
+ <STDV_OBS>   3.83347832E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   1.08913844E-02 </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>   5.83246499E-02 </BIAS>
+ <RMSE> -0.132565066     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.22700043E-02 </BIAS>
+ <RMSE> -0.114510238     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.08333254E-02 </MEAN_OBS>
+ <STDV_OBS>   3.84768695E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   1.03285024E-02 </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>  0.222193167     </BIAS>
+ <RMSE>  -9.59515646E-02 </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.213925436     </BIAS>
+ <RMSE>  -8.87609646E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.23206139     </MEAN_OBS>
+ <STDV_OBS>   3.53005242     </STDV_OBS>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>REF</NAME>
+ <NUM>         131 </NUM>
+ <MEAN>   3.47520232     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   2.47399664     </BIAS>
+ <RMSE>  0.731955230     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         131 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.41534829     </BIAS>
+ <RMSE>  0.748101354     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.33440876     </MEAN_OBS>
+ <STDV_OBS>   3.17389202     </STDV_OBS>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>REF</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   3.44956231     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>   1.74615562     </BIAS>
+ <RMSE>  0.844925523     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.78792298     </BIAS>
+ <RMSE>  0.836789072     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.99270821     </MEAN_OBS>
+ <STDV_OBS>   4.49750328     </STDV_OBS>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>REF</NAME>
+ <NUM>          96 </NUM>
+ <MEAN>   4.40137291     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>   1.55493712     </BIAS>
+ <RMSE>  0.938992500     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          96 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.63097203     </BIAS>
+ <RMSE>  0.932895899     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.85111165     </MEAN_OBS>
+ <STDV_OBS>   3.01316214     </STDV_OBS>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>REF</NAME>
+ <NUM>          45 </NUM>
+ <MEAN>   2.97095728     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>   1.22210979     </BIAS>
+ <RMSE>  0.930191576     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          45 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.25483751     </BIAS>
+ <RMSE>  0.926650465     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.61840165     </MEAN_OBS>
+ <STDV_OBS>   2.24813008     </STDV_OBS>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.54786825     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>   1.32298779     </BIAS>
+ <RMSE>  0.863746583     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.40020740     </BIAS>
+ <RMSE>  0.845146179     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.210067064     </STDV_OBS>
+ <EXP>
+ <ID>       33135 </ID>
+ <NAME>REF</NAME>
+ <NUM>          67 </NUM>
+ <MEAN>   4.70717475E-02 </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>   8.23804066E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33135 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          67 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.208493516     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.28409556E-02 </MEAN_OBS>
+ <STDV_OBS>  0.581160605     </STDV_OBS>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>REF</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>  0.316691965     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>  0.560266912     </BIAS>
+ <RMSE>  0.297255307     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.511791229     </BIAS>
+ <RMSE>  0.518744826     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.52272753E-03 </MEAN_OBS>
+ <STDV_OBS>  0.181317523     </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>REF</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   5.01021259E-02 </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>  0.109809846     </BIAS>
+ <RMSE>  0.210387319     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.194811940     </BIAS>
+ <RMSE>   9.01626498E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.60144567     </MEAN_OBS>
+ <STDV_OBS>   1.45936167     </STDV_OBS>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>  0.889442444     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>   1.76534522     </BIAS>
+ <RMSE>  0.735432684     </RMSE>
+ <CORR>   4.59779690E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56757200     </BIAS>
+ <RMSE>  0.815118968     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.815340400     </MEAN_OBS>
+ <STDV_OBS>   1.56966352     </STDV_OBS>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>REF</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>  0.756723225     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>  0.898438573     </BIAS>
+ <RMSE>  0.837144792     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.873054743     </BIAS>
+ <RMSE>  0.843570530     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.95416665     </MEAN_OBS>
+ <STDV_OBS>   1.74120903     </STDV_OBS>
+ <EXP>
+ <ID>       12120 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.879442811     </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>   3.18137813     </BIAS>
+ <RMSE>  0.240983814     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12120 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.99923420     </BIAS>
+ <RMSE>  0.347689480     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.201388896     </MEAN_OBS>
+ <STDV_OBS>   1.01678026     </STDV_OBS>
+ <EXP>
+ <ID>       12250 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.227307722     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>  0.680561602     </BIAS>
+ <RMSE>  0.736492634     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12250 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.679147243     </BIAS>
+ <RMSE>  0.741659939     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.129166663     </MEAN_OBS>
+ <STDV_OBS>  0.654392123     </STDV_OBS>
+ <EXP>
+ <ID>       12295 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.170877352     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>  0.382919520     </BIAS>
+ <RMSE>  0.850063801     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12295 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.404759228     </BIAS>
+ <RMSE>  0.815126717     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.234722212     </MEAN_OBS>
+ <STDV_OBS>  0.692390621     </STDV_OBS>
+ <EXP>
+ <ID>       12330 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.192145556     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>  0.387809783     </BIAS>
+ <RMSE>  0.862777591     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12330 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.357263923     </BIAS>
+ <RMSE>  0.881921351     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.55555560E-02 </MEAN_OBS>
+ <STDV_OBS>  0.561639607     </STDV_OBS>
+ <EXP>
+ <ID>       12375 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.127556548     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>  0.275812507     </BIAS>
+ <RMSE>  0.978961229     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12375 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.290386707     </BIAS>
+ <RMSE>  0.971506834     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.180555537     </MEAN_OBS>
+ <STDV_OBS>  0.978306711     </STDV_OBS>
+ <EXP>
+ <ID>       12155 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.454250008     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>  0.786120057     </BIAS>
+ <RMSE>  0.622761130     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12155 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.783297718     </BIAS>
+ <RMSE>  0.643875539     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.638888896     </MEAN_OBS>
+ <STDV_OBS>   1.67918539     </STDV_OBS>
+ <EXP>
+ <ID>       12160 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.640461147     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>   1.06250489     </BIAS>
+ <RMSE>  0.773566544     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12160 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03822899     </BIAS>
+ <RMSE>  0.782797217     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.702777743     </MEAN_OBS>
+ <STDV_OBS>   1.79036772     </STDV_OBS>
+ <EXP>
+ <ID>       12205 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.655094802     </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>  0.843130946     </BIAS>
+ <RMSE>  0.883765340     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12205 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.814104021     </BIAS>
+ <RMSE>  0.892683923     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.105555564     </MEAN_OBS>
+ <STDV_OBS>  0.515758634     </STDV_OBS>
+ <EXP>
+ <ID>       12465 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.121675901     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>  0.145635590     </BIAS>
+ <RMSE>  0.981242895     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12465 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.145677596     </BIAS>
+ <RMSE>  0.978929460     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.73126650     </MEAN_OBS>
+ <STDV_OBS>   1.82490349     </STDV_OBS>
+ <EXP>
+ <ID>       26501 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.37933862     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   1.45769608     </BIAS>
+ <RMSE>  0.835135281     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26501 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.41742003     </BIAS>
+ <RMSE>  0.843711793     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.44160175     </MEAN_OBS>
+ <STDV_OBS>   1.84357738     </STDV_OBS>
+ <EXP>
+ <ID>       26504 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.29087913     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>   1.26446736     </BIAS>
+ <RMSE>  0.869546652     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26504 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.22167015     </BIAS>
+ <RMSE>  0.874802828     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.67467654     </MEAN_OBS>
+ <STDV_OBS>   1.76167512     </STDV_OBS>
+ <EXP>
+ <ID>       26515 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.61474562     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   1.47317922     </BIAS>
+ <RMSE>  0.737021327     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26515 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48114026     </BIAS>
+ <RMSE>  0.735754609     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.00516856     </MEAN_OBS>
+ <STDV_OBS>   1.88050938     </STDV_OBS>
+ <EXP>
+ <ID>       26517 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.15990007     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>  0.922509611     </BIAS>
+ <RMSE>  0.872920334     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26517 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.914600909     </BIAS>
+ <RMSE>  0.879371703     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.947287321     </MEAN_OBS>
+ <STDV_OBS>   1.61592889     </STDV_OBS>
+ <EXP>
+ <ID>       26528 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.01749933     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>   1.16057909     </BIAS>
+ <RMSE>  0.831361473     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26528 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.05386150     </BIAS>
+ <RMSE>  0.865220964     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.996640980     </MEAN_OBS>
+ <STDV_OBS>   1.61667728     </STDV_OBS>
+ <EXP>
+ <ID>       26529 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>  0.933575332     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>   1.03984725     </BIAS>
+ <RMSE>  0.915763259     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26529 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.999325275     </BIAS>
+ <RMSE>  0.932072103     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.09302437     </MEAN_OBS>
+ <STDV_OBS>   2.21642280     </STDV_OBS>
+ <EXP>
+ <ID>       26539 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.70785356     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>   1.18444669     </BIAS>
+ <RMSE>  0.850240290     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26539 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.24226820     </BIAS>
+ <RMSE>  0.843510568     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.532558441     </MEAN_OBS>
+ <STDV_OBS>   1.69616139     </STDV_OBS>
+ <EXP>
+ <ID>       26547 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.30063140     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   1.39660287     </BIAS>
+ <RMSE>  0.598819733     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26547 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38038290     </BIAS>
+ <RMSE>  0.602943301     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.850129724     </MEAN_OBS>
+ <STDV_OBS>   1.62352383     </STDV_OBS>
+ <EXP>
+ <ID>       26600 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>  0.985272825     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>  0.716290176     </BIAS>
+ <RMSE>  0.888394713     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26600 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.765677750     </BIAS>
+ <RMSE>  0.881479084     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.539498270     </MEAN_OBS>
+ <STDV_OBS>   1.47432458     </STDV_OBS>
+ <EXP>
+ <ID>       26603 </ID>
+ <NAME>REF</NAME>
+ <NUM>         319 </NUM>
+ <MEAN>  0.756411374     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>  0.650035679     </BIAS>
+ <RMSE>  0.892198384     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26603 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         319 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.687164724     </BIAS>
+ <RMSE>  0.890551209     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.02532291     </MEAN_OBS>
+ <STDV_OBS>   1.53785431     </STDV_OBS>
+ <EXP>
+ <ID>       26615 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.25564790     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>  0.892673790     </BIAS>
+ <RMSE>  0.834000528     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26615 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.931744933     </BIAS>
+ <RMSE>  0.824906349     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.00077426     </MEAN_OBS>
+ <STDV_OBS>   1.38324487     </STDV_OBS>
+ <EXP>
+ <ID>       26620 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>  0.831954837     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>  0.915647805     </BIAS>
+ <RMSE>  0.862549961     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26620 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.838183820     </BIAS>
+ <RMSE>  0.885994315     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.09069860     </MEAN_OBS>
+ <STDV_OBS>   1.37588346     </STDV_OBS>
+ <EXP>
+ <ID>       26621 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.05170512     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>  0.748673081     </BIAS>
+ <RMSE>  0.873723090     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26621 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.733731568     </BIAS>
+ <RMSE>  0.879147410     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.927907586     </MEAN_OBS>
+ <STDV_OBS>   1.34690833     </STDV_OBS>
+ <EXP>
+ <ID>       26634 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>  0.807778955     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>  0.907287836     </BIAS>
+ <RMSE>  0.901533246     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26634 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.936595261     </BIAS>
+ <RMSE>  0.900015652     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.10904431     </MEAN_OBS>
+ <STDV_OBS>   1.50718355     </STDV_OBS>
+ <EXP>
+ <ID>       26636 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   1.12989330     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>  0.755735934     </BIAS>
+ <RMSE>  0.918666303     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26636 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.798177838     </BIAS>
+ <RMSE>  0.910938263     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.373901367     </MEAN_OBS>
+ <STDV_OBS>   1.04843521     </STDV_OBS>
+ <EXP>
+ <ID>       26713 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>  0.628250957     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>  0.546916544     </BIAS>
+ <RMSE>  0.848421454     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26713 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.588800073     </BIAS>
+ <RMSE>  0.843600452     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.488889128     </MEAN_OBS>
+ <STDV_OBS>   1.20581710     </STDV_OBS>
+ <EXP>
+ <ID>       26714 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>  0.562497675     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>  0.393926203     </BIAS>
+ <RMSE>  0.941044807     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26714 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.403910369     </BIAS>
+ <RMSE>  0.944974184     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.265632898     </MEAN_OBS>
+ <STDV_OBS>  0.894494295     </STDV_OBS>
+ <EXP>
+ <ID>       26728 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>  0.426404059     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>  0.565038264     </BIAS>
+ <RMSE>  0.841678619     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26728 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.591866553     </BIAS>
+ <RMSE>  0.842009306     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.539018989     </MEAN_OBS>
+ <STDV_OBS>   1.14345443     </STDV_OBS>
+ <EXP>
+ <ID>       26729 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>  0.563696086     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>  0.557607353     </BIAS>
+ <RMSE>  0.875469387     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26729 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.514689922     </BIAS>
+ <RMSE>  0.896680772     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.00000014E-02 </MEAN_OBS>
+ <STDV_OBS>  0.515592515     </STDV_OBS>
+ <EXP>
+ <ID>       26732 </ID>
+ <NAME>REF</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>  0.260854095     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>  0.468006730     </BIAS>
+ <RMSE>  0.786045432     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26732 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.457412541     </BIAS>
+ <RMSE>  0.808209956     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.522857308     </MEAN_OBS>
+ <STDV_OBS>   1.08104527     </STDV_OBS>
+ <EXP>
+ <ID>       26737 </ID>
+ <NAME>REF</NAME>
+ <NUM>         280 </NUM>
+ <MEAN>  0.493529737     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>  0.680954695     </BIAS>
+ <RMSE>  0.761654675     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26737 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         280 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.685551465     </BIAS>
+ <RMSE>  0.772277117     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.551388919     </MEAN_OBS>
+ <STDV_OBS>   1.92590058     </STDV_OBS>
+ <EXP>
+ <ID>       12100 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.923197091     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   1.04890573     </BIAS>
+ <RMSE>  0.854707241     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12100 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.00615525     </BIAS>
+ <RMSE>  0.877697587     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.363888890     </MEAN_OBS>
+ <STDV_OBS>   1.70585036     </STDV_OBS>
+ <EXP>
+ <ID>       12115 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.714476407     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>  0.960666895     </BIAS>
+ <RMSE>  0.825085938     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12115 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.961458921     </BIAS>
+ <RMSE>  0.825502455     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.01249993     </MEAN_OBS>
+ <STDV_OBS>   1.60596347     </STDV_OBS>
+ <EXP>
+ <ID>       12125 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.862358332     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   1.24152327     </BIAS>
+ <RMSE>  0.701669276     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12125 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.34162772     </BIAS>
+ <RMSE>  0.665983319     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.583333313     </MEAN_OBS>
+ <STDV_OBS>   1.39016378     </STDV_OBS>
+ <EXP>
+ <ID>       12135 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.836101472     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>  0.822012722     </BIAS>
+ <RMSE>  0.815271854     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12135 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.876121223     </BIAS>
+ <RMSE>  0.793486834     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.188888878     </MEAN_OBS>
+ <STDV_OBS>  0.848127544     </STDV_OBS>
+ <EXP>
+ <ID>       12185 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.385192454     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>  0.530711114     </BIAS>
+ <RMSE>  0.862058878     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12185 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.518792868     </BIAS>
+ <RMSE>  0.878722966     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.713888884     </MEAN_OBS>
+ <STDV_OBS>   2.55464721     </STDV_OBS>
+ <EXP>
+ <ID>       12200 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   1.14354455     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>   1.35788214     </BIAS>
+ <RMSE>  0.863856733     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12200 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.31963205     </BIAS>
+ <RMSE>  0.876786113     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.44145012     </STDV_OBS>
+ <EXP>
+ <ID>       12215 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.538675845     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>   1.40656984     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12215 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43140507     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.105555564     </MEAN_OBS>
+ <STDV_OBS>   1.11801219     </STDV_OBS>
+ <EXP>
+ <ID>       12272 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.397094250     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>  0.713636100     </BIAS>
+ <RMSE>  0.950459480     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12272 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.751813591     </BIAS>
+ <RMSE>  0.935608447     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.55555560E-02 </MEAN_OBS>
+ <STDV_OBS>  0.688294649     </STDV_OBS>
+ <EXP>
+ <ID>       12285 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.166408315     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>  0.522658110     </BIAS>
+ <RMSE>  0.631761611     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12285 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.533120513     </BIAS>
+ <RMSE>  0.628343463     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.94444478E-02 </MEAN_OBS>
+ <STDV_OBS>  0.834556222     </STDV_OBS>
+ <EXP>
+ <ID>       12345 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.215847209     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>  0.491196781     </BIAS>
+ <RMSE>  0.969316900     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12345 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.505072892     </BIAS>
+ <RMSE>  0.960488439     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.55555560E-02 </MEAN_OBS>
+ <STDV_OBS>  0.870695293     </STDV_OBS>
+ <EXP>
+ <ID>       12360 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.205253527     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>  0.625988245     </BIAS>
+ <RMSE>  0.887665927     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12360 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.631022155     </BIAS>
+ <RMSE>  0.877062380     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.52777778E-02 </MEAN_OBS>
+ <STDV_OBS>  0.439648956     </STDV_OBS>
+ <EXP>
+ <ID>       12385 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   6.89969882E-02 </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>  0.356489450     </BIAS>
+ <RMSE>  0.931569219     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12385 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.355896086     </BIAS>
+ <RMSE>  0.935858607     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.77777780E-02 </MEAN_OBS>
+ <STDV_OBS>  0.401896805     </STDV_OBS>
+ <EXP>
+ <ID>       12497 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   8.81070942E-02 </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>  0.142508909     </BIAS>
+ <RMSE>  0.895975590     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12497 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.294061720     </BIAS>
+ <RMSE>  0.682936490     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.498611122     </MEAN_OBS>
+ <STDV_OBS>   1.86530602     </STDV_OBS>
+ <EXP>
+ <ID>       12210 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.837179005     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>  0.932447493     </BIAS>
+ <RMSE>  0.883324385     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12210 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.918997586     </BIAS>
+ <RMSE>  0.891065240     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.351388872     </MEAN_OBS>
+ <STDV_OBS>  0.979002774     </STDV_OBS>
+ <EXP>
+ <ID>       12230 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.319351315     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>   1.00588870     </BIAS>
+ <RMSE>  0.704811931     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12230 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.994831800     </BIAS>
+ <RMSE>  0.712787628     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.358333319     </MEAN_OBS>
+ <STDV_OBS>  0.753052831     </STDV_OBS>
+ <EXP>
+ <ID>       12310 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.251327723     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>  0.977799952     </BIAS>
+ <RMSE>  0.691637278     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12310 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.979080081     </BIAS>
+ <RMSE>  0.690515041     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.77777780E-02 </MEAN_OBS>
+ <STDV_OBS>  0.298195750     </STDV_OBS>
+ <EXP>
+ <ID>       12399 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   4.34565991E-02 </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>  0.130881742     </BIAS>
+ <RMSE>  0.931577921     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12399 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.16149658E-02 </BIAS>
+ <RMSE>  0.990784168     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.240277797     </MEAN_OBS>
+ <STDV_OBS>  0.398026973     </STDV_OBS>
+ <EXP>
+ <ID>       12418 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   9.29156542E-02 </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>  0.361241579     </BIAS>
+ <RMSE>  0.821330130     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12418 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.363728374     </BIAS>
+ <RMSE>  0.817250907     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.33333351E-02 </MEAN_OBS>
+ <STDV_OBS>  0.377272248     </STDV_OBS>
+ <EXP>
+ <ID>       12488 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   7.01706037E-02 </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>  0.326586992     </BIAS>
+ <RMSE>  0.675666392     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12488 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.273754746     </BIAS>
+ <RMSE>  0.754235029     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.30057745E-02 </MEAN_OBS>
+ <STDV_OBS>   5.66165224E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   1.83310080E-02 </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>  0.103217043     </BIAS>
+ <RMSE>  -3.06516066E-02 </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.86232224E-02 </BIAS>
+ <RMSE>  -6.66056871E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.91329515E-03 </MEAN_OBS>
+ <STDV_OBS>   9.67657566E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   2.46183351E-02 </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>   6.55314624E-02 </BIAS>
+ <RMSE>   9.18518752E-02 </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.102479592     </BIAS>
+ <RMSE>  -7.12106004E-04 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.158238560     </MEAN_OBS>
+ <STDV_OBS>   9.83029976E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>REF</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   4.91781235E-02 </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>  0.347820848     </BIAS>
+ <RMSE>  0.270086825     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.276603580     </BIAS>
+ <RMSE>  0.284214348     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.02312157E-03 </MEAN_OBS>
+ <STDV_OBS>  0.122676186     </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   4.19458039E-02 </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>  0.196622804     </BIAS>
+ <RMSE>  -1.06423749E-02 </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.122872196     </BIAS>
+ <RMSE>   3.09026670E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.218749985     </MEAN_OBS>
+ <STDV_OBS>  0.382763028     </STDV_OBS>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>REF</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>  0.129825637     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>  0.283409834     </BIAS>
+ <RMSE>  0.851590037     </RMSE>
+ <CORR>   4.59779690E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.340178847     </BIAS>
+ <RMSE>  0.770712376     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.710511029     </MEAN_OBS>
+ <STDV_OBS>   1.06026542     </STDV_OBS>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>REF</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>  0.823670864     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>   1.06227160     </BIAS>
+ <RMSE>  0.620655537     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.05490839     </BIAS>
+ <RMSE>  0.619502723     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.21965793E-02 </MEAN_OBS>
+ <STDV_OBS>  0.258247972     </STDV_OBS>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>  0.105257414     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>  0.178813830     </BIAS>
+ <RMSE>  0.342393667     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.243377343     </BIAS>
+ <RMSE>  0.330619723     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.40909250E-02 </MEAN_OBS>
+ <STDV_OBS>   5.04079610E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>REF</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   1.70164984E-02 </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>  0.113826506     </BIAS>
+ <RMSE>  -9.63722318E-02 </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.104701191     </BIAS>
+ <RMSE>  -7.55964816E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.04046259E-02 </MEAN_OBS>
+ <STDV_OBS>   6.34466931E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   2.84220967E-02 </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   6.62169904E-02 </BIAS>
+ <RMSE>  -3.14684547E-02 </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.22772533E-02 </BIAS>
+ <RMSE>  -7.14805499E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.12716714E-02 </MEAN_OBS>
+ <STDV_OBS>   6.54189214E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   2.28714254E-02 </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>  0.304107189     </BIAS>
+ <RMSE>  0.290625900     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.81776106E-02 </BIAS>
+ <RMSE>  0.149864450     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.63005737E-02 </MEAN_OBS>
+ <STDV_OBS>  0.165152729     </STDV_OBS>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   3.10677979E-02 </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>   8.42346326E-02 </BIAS>
+ <RMSE>  0.908739805     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.100603446     </BIAS>
+ <RMSE>  0.871797919     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.16763139E-02 </MEAN_OBS>
+ <STDV_OBS>  0.159195468     </STDV_OBS>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   5.71200065E-02 </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>  0.211084843     </BIAS>
+ <RMSE>  0.319007367     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.189287022     </BIAS>
+ <RMSE>  0.266000688     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.158422962     </MEAN_OBS>
+ <STDV_OBS>  0.634188771     </STDV_OBS>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>REF</NAME>
+ <NUM>         279 </NUM>
+ <MEAN>  0.304971725     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>  0.580624819     </BIAS>
+ <RMSE>  0.607188582     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         279 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.529584348     </BIAS>
+ <RMSE>  0.566074550     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.428034604     </MEAN_OBS>
+ <STDV_OBS>   1.49947083     </STDV_OBS>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>  0.703667700     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>   1.02146852     </BIAS>
+ <RMSE>  0.762570322     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.08371103     </BIAS>
+ <RMSE>  0.702702582     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.117341034     </MEAN_OBS>
+ <STDV_OBS>   1.45298541     </STDV_OBS>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>  0.606970906     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>   1.18937922     </BIAS>
+ <RMSE>  0.714208841     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18359160     </BIAS>
+ <RMSE>  0.703066766     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.55170512     </MEAN_OBS>
+ <STDV_OBS>   2.61254144     </STDV_OBS>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>REF</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   2.13312244     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   1.76992512     </BIAS>
+ <RMSE>  0.769219816     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.72644055     </BIAS>
+ <RMSE>  0.763584495     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.47601187     </MEAN_OBS>
+ <STDV_OBS>   2.03472733     </STDV_OBS>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   1.30436301     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   1.30476832     </BIAS>
+ <RMSE>  0.742277682     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42222333     </BIAS>
+ <RMSE>  0.726574659     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.73243916     </MEAN_OBS>
+ <STDV_OBS>   2.14507079     </STDV_OBS>
+ <EXP>
+ <ID>       26038 </ID>
+ <NAME>REF</NAME>
+ <NUM>         373 </NUM>
+ <MEAN>   1.55308521     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>   1.39200413     </BIAS>
+ <RMSE>  0.869581521     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26038 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         373 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.33067679     </BIAS>
+ <RMSE>  0.885494471     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.24264300     </MEAN_OBS>
+ <STDV_OBS>   1.71092117     </STDV_OBS>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>REF</NAME>
+ <NUM>         333 </NUM>
+ <MEAN>   1.02174520     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>  0.774796009     </BIAS>
+ <RMSE>  0.913529158     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         333 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.710621297     </BIAS>
+ <RMSE>  0.925773680     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.952816725     </MEAN_OBS>
+ <STDV_OBS>   2.48623538     </STDV_OBS>
+ <EXP>
+ <ID>       26242 </ID>
+ <NAME>REF</NAME>
+ <NUM>         373 </NUM>
+ <MEAN>   1.65680671     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>   1.42432773     </BIAS>
+ <RMSE>  0.803195179     </RMSE>
+ <CORR>   4.59779690E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26242 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         373 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42946744     </BIAS>
+ <RMSE>  0.840810359     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.70186484     </MEAN_OBS>
+ <STDV_OBS>   2.43764162     </STDV_OBS>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>REF</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   1.96207702     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>   1.18171811     </BIAS>
+ <RMSE>  0.878610611     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15547717     </BIAS>
+ <RMSE>  0.888834715     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.38409090     </MEAN_OBS>
+ <STDV_OBS>   2.96483064     </STDV_OBS>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>REF</NAME>
+ <NUM>         132 </NUM>
+ <MEAN>   3.18404508     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>   2.13887239     </BIAS>
+ <RMSE>  0.741613626     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         132 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.98201907     </BIAS>
+ <RMSE>  0.764091372     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.25798368     </MEAN_OBS>
+ <STDV_OBS>   3.58777261     </STDV_OBS>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>REF</NAME>
+ <NUM>         119 </NUM>
+ <MEAN>   4.25859690     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   3.07416272     </BIAS>
+ <RMSE>  0.596291065     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         119 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.05206585     </BIAS>
+ <RMSE>  0.592713058     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.17615366     </MEAN_OBS>
+ <STDV_OBS>   3.47097492     </STDV_OBS>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>REF</NAME>
+ <NUM>         130 </NUM>
+ <MEAN>   3.70141840     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>   2.05163503     </BIAS>
+ <RMSE>  0.780214787     </RMSE>
+ <CORR>   4.59779690E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         130 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.30781579     </BIAS>
+ <RMSE>  0.745212913     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.80275917     </MEAN_OBS>
+ <STDV_OBS>   3.44082451     </STDV_OBS>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>REF</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   3.63218117     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>   2.05445814     </BIAS>
+ <RMSE>  0.797913492     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.37169528     </BIAS>
+ <RMSE>  0.740410507     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.30206156     </MEAN_OBS>
+ <STDV_OBS>   4.83340740     </STDV_OBS>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>REF</NAME>
+ <NUM>          97 </NUM>
+ <MEAN>   4.21494007     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   2.48271656     </BIAS>
+ <RMSE>  0.877244651     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          97 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.48630238     </BIAS>
+ <RMSE>  0.879385293     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.28252459     </MEAN_OBS>
+ <STDV_OBS>   2.77527571     </STDV_OBS>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>REF</NAME>
+ <NUM>         103 </NUM>
+ <MEAN>   2.51284981     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>   1.76167345     </BIAS>
+ <RMSE>  0.868904829     </RMSE>
+ <CORR>   4.59779690E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         103 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.76197171     </BIAS>
+ <RMSE>  0.868356228     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.35242796     </MEAN_OBS>
+ <STDV_OBS>   2.91072702     </STDV_OBS>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>REF</NAME>
+ <NUM>         103 </NUM>
+ <MEAN>   2.51921010     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>   2.24995303     </BIAS>
+ <RMSE>  0.703463972     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         103 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.21174479     </BIAS>
+ <RMSE>  0.694336474     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.31333315     </MEAN_OBS>
+ <STDV_OBS>   3.00238156     </STDV_OBS>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>REF</NAME>
+ <NUM>         120 </NUM>
+ <MEAN>   2.06512451     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   1.71410322     </BIAS>
+ <RMSE>  0.931123972     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         120 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.70299375     </BIAS>
+ <RMSE>  0.929524899     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.494444489     </MEAN_OBS>
+ <STDV_OBS>   1.77684009     </STDV_OBS>
+ <EXP>
+ <ID>       12105 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.809144258     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   1.04615724     </BIAS>
+ <RMSE>  0.801909685     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12105 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03182590     </BIAS>
+ <RMSE>  0.818930030     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.337500006     </MEAN_OBS>
+ <STDV_OBS>   1.02722597     </STDV_OBS>
+ <EXP>
+ <ID>       12195 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.490316719     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>  0.617116451     </BIAS>
+ <RMSE>  0.804867089     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12195 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.631301880     </BIAS>
+ <RMSE>  0.800384700     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.238888904     </MEAN_OBS>
+ <STDV_OBS>   1.24270260     </STDV_OBS>
+ <EXP>
+ <ID>       12235 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.394727677     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>  0.653366387     </BIAS>
+ <RMSE>  0.867211640     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12235 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.639100552     </BIAS>
+ <RMSE>  0.877325416     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.222222224     </MEAN_OBS>
+ <STDV_OBS>  0.929606736     </STDV_OBS>
+ <EXP>
+ <ID>       12270 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.236945733     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>  0.483228385     </BIAS>
+ <RMSE>  0.848179817     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12270 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.483932227     </BIAS>
+ <RMSE>  0.851576507     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.229166672     </MEAN_OBS>
+ <STDV_OBS>  0.809517026     </STDV_OBS>
+ <EXP>
+ <ID>       12280 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.298230559     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>  0.601875305     </BIAS>
+ <RMSE>  0.677168071     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12280 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.580163479     </BIAS>
+ <RMSE>  0.696486115     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.361111104     </MEAN_OBS>
+ <STDV_OBS>  0.848912537     </STDV_OBS>
+ <EXP>
+ <ID>       12300 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.322489172     </MEAN>
+ <STDV>   4.59992998E-24 </STDV>
+ <BIAS>  0.676957905     </BIAS>
+ <RMSE>  0.871905267     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12300 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.664381683     </BIAS>
+ <RMSE>  0.881280482     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.238888904     </MEAN_OBS>
+ <STDV_OBS>  0.416304320     </STDV_OBS>
+ <EXP>
+ <ID>       12400 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.127712220     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>  0.412346572     </BIAS>
+ <RMSE>  0.911048651     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12400 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.412067592     </BIAS>
+ <RMSE>  0.916353047     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.66666701E-02 </MEAN_OBS>
+ <STDV_OBS>  0.429346710     </STDV_OBS>
+ <EXP>
+ <ID>       12435 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   9.06770900E-02 </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>  0.133259088     </BIAS>
+ <RMSE>  0.972006023     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12435 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.134332389     </BIAS>
+ <RMSE>  0.969888031     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.46981399E-02 </STDV_OBS>
+ <EXP>
+ <ID>       33088 </ID>
+ <NAME>REF</NAME>
+ <NUM>          71 </NUM>
+ <MEAN>   9.45614837E-03 </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>   1.39210057E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33088 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          71 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.44529189E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.72925384E-02 </STDV_OBS>
+ <EXP>
+ <ID>       33261 </ID>
+ <NAME>REF</NAME>
+ <NUM>          71 </NUM>
+ <MEAN>   1.76675245E-02 </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>   4.03724425E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33261 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          71 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.70996559E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26509 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>   2.07879566E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26509 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.428571463     </MEAN_OBS>
+ <STDV_OBS>   1.97457731     </STDV_OBS>
+ <EXP>
+ <ID>       26518 </ID>
+ <NAME>REF</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>  0.825952590     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>  0.796350718     </BIAS>
+ <RMSE>  0.993836045     </RMSE>
+ <CORR>   4.59808089E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26518 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.869820118     </BIAS>
+ <RMSE>  0.992732882     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.57142955E-02 </MEAN_OBS>
+ <STDV_OBS>  0.223942176     </STDV_OBS>
+ <EXP>
+ <ID>       26531 </ID>
+ <NAME>REF</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>  0.113389775     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>  0.249713361     </BIAS>
+ <RMSE>  0.555883586     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26531 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.15784058E-02 </BIAS>
+ <RMSE>  0.943835676     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.00000028E-02 </MEAN_OBS>
+ <STDV_OBS>  0.355681628     </STDV_OBS>
+ <EXP>
+ <ID>       26633 </ID>
+ <NAME>REF</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>  0.290619940     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>  0.228664711     </BIAS>
+ <RMSE>  0.903423250     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26633 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.271103531     </BIAS>
+ <RMSE>  0.965994895     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.300000012     </MEAN_OBS>
+ <STDV_OBS>  0.590964437     </STDV_OBS>
+ <EXP>
+ <ID>       26730 </ID>
+ <NAME>REF</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>  0.271257460     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>  0.662221968     </BIAS>
+ <RMSE>   9.45152249E-03 </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26730 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.655130565     </BIAS>
+ <RMSE>   1.31790796E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.947222412     </MEAN_OBS>
+ <STDV_OBS>  0.625652850     </STDV_OBS>
+ <EXP>
+ <ID>        6464 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.292656511     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>   1.51009083     </BIAS>
+ <RMSE>  0.131361738     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6464 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.50918913     </BIAS>
+ <RMSE>  0.133884460     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.87499933E-02 </MEAN_OBS>
+ <STDV_OBS>   3.57663706E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>REF</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   1.05576944E-02 </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>   8.82047862E-02 </BIAS>
+ <RMSE>  0.359492093     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.75128421E-02 </BIAS>
+ <RMSE>  0.235252872     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.97159183E-02 </MEAN_OBS>
+ <STDV_OBS>   3.28420773E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>REF</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   1.05174677E-02 </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>  0.188611135     </BIAS>
+ <RMSE>  0.379691124     </RMSE>
+ <CORR>   4.59797992E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.184840947     </BIAS>
+ <RMSE>  0.571853876     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.12716742E-02 </MEAN_OBS>
+ <STDV_OBS>  0.137496620     </STDV_OBS>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   4.84904498E-02 </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>  0.100675717     </BIAS>
+ <RMSE>  0.634493828     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.103723496     </BIAS>
+ <RMSE>  0.716550231     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.12138833E-02 </MEAN_OBS>
+ <STDV_OBS>   2.03490388E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   4.60718339E-03 </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   9.35341194E-02 </BIAS>
+ <RMSE>  0.137367740     </RMSE>
+ <CORR>   4.31615462E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.53255817E-02 </BIAS>
+ <RMSE>  -7.63565302E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.398554921     </MEAN_OBS>
+ <STDV_OBS>  0.439500064     </STDV_OBS>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>  0.183425531     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>  0.633234203     </BIAS>
+ <RMSE>  0.802262902     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.705848157     </BIAS>
+ <RMSE>  0.728229940     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.307225406     </MEAN_OBS>
+ <STDV_OBS>  0.359782696     </STDV_OBS>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>  0.222264260     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>  0.542511225     </BIAS>
+ <RMSE>  0.356634378     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.515815616     </BIAS>
+ <RMSE>  0.397464156     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.68728268     </MEAN_OBS>
+ <STDV_OBS>   1.79406428     </STDV_OBS>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>  0.948180079     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   1.78601885     </BIAS>
+ <RMSE>  0.750961900     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.96241653     </BIAS>
+ <RMSE>  0.674255311     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.60867190     </MEAN_OBS>
+ <STDV_OBS>   2.53168654     </STDV_OBS>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   2.04459643     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   2.26750565     </BIAS>
+ <RMSE>  0.729965627     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.39648414     </BIAS>
+ <RMSE>  0.689517736     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.456250131     </MEAN_OBS>
+ <STDV_OBS>   2.81799579     </STDV_OBS>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>REF</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   2.19061136     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>   2.70155931     </BIAS>
+ <RMSE>  0.222750291     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.72137666     </BIAS>
+ <RMSE>  0.257327884     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.99715912     </MEAN_OBS>
+ <STDV_OBS>   2.38457203     </STDV_OBS>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>REF</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   1.94035828     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>   2.65991592     </BIAS>
+ <RMSE>  0.568381906     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.95962310     </BIAS>
+ <RMSE>  0.457126796     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.62687922     </MEAN_OBS>
+ <STDV_OBS>   2.41183186     </STDV_OBS>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   1.88237691     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>   1.64295924     </BIAS>
+ <RMSE>  0.755427122     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.75208700     </BIAS>
+ <RMSE>  0.712430358     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.04132843     </MEAN_OBS>
+ <STDV_OBS>   2.09404373     </STDV_OBS>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>REF</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   1.79986835     </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>   1.55818117     </BIAS>
+ <RMSE>  0.727936685     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         346 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.55831933     </BIAS>
+ <RMSE>  0.728748918     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.958870888     </MEAN_OBS>
+ <STDV_OBS>   2.39202619     </STDV_OBS>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>REF</NAME>
+ <NUM>         248 </NUM>
+ <MEAN>  0.738478899     </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>   1.03634238     </BIAS>
+ <RMSE>  0.952171564     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         248 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.06670189     </BIAS>
+ <RMSE>  0.946647465     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.26988685     </MEAN_OBS>
+ <STDV_OBS>   2.25568938     </STDV_OBS>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>REF</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   1.01419663     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>  0.996881485     </BIAS>
+ <RMSE>  0.913596272     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         352 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.985192776     </BIAS>
+ <RMSE>  0.915408254     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.12949657     </MEAN_OBS>
+ <STDV_OBS>   2.40639496     </STDV_OBS>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>REF</NAME>
+ <NUM>         139 </NUM>
+ <MEAN>   1.32296574     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>   1.06359124     </BIAS>
+ <RMSE>  0.896267772     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         139 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.04954219     </BIAS>
+ <RMSE>  0.899109721     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.357106030     </MEAN_OBS>
+ <STDV_OBS>  0.726481497     </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>  0.235458910     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>  0.763982475     </BIAS>
+ <RMSE>  0.446280718     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.769867063     </BIAS>
+ <RMSE>  0.444507033     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.962500036     </MEAN_OBS>
+ <STDV_OBS>  0.485739052     </STDV_OBS>
+ <EXP>
+ <ID>        6407 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.217350543     </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>  0.841876626     </BIAS>
+ <RMSE>  0.169490755     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6407 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.839947462     </BIAS>
+ <RMSE>  0.171301425     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.730555534     </MEAN_OBS>
+ <STDV_OBS>  0.429255098     </STDV_OBS>
+ <EXP>
+ <ID>        6450 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.212580070     </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   1.22195840     </BIAS>
+ <RMSE>  -4.97824103E-02 </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6450 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.22223067     </BIAS>
+ <RMSE>  -5.07528596E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.257352948     </MEAN_OBS>
+ <STDV_OBS>   4.68407845E-04 </STDV_OBS>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>REF</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   1.00528181E-04 </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>  0.766166091     </BIAS>
+ <RMSE>  -7.65881874E-03 </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.766168237     </BIAS>
+ <RMSE>  -1.21082449E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.411764801     </MEAN_OBS>
+ <STDV_OBS>  0.264121056     </STDV_OBS>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>REF</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   6.70218468E-02 </MEAN>
+ <STDV>   4.59779690E-24 </STDV>
+ <BIAS>  0.621060729     </BIAS>
+ <RMSE>  0.485932648     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.621010542     </BIAS>
+ <RMSE>  0.485260546     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.62500048     </MEAN_OBS>
+ <STDV_OBS>   2.18962860     </STDV_OBS>
+ <EXP>
+ <ID>        3008 </ID>
+ <NAME>REF</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   1.12438369     </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>   4.27861118     </BIAS>
+ <RMSE>  0.389168769     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3008 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.04196262     </BIAS>
+ <RMSE>  0.492622614     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.53164559E-03 </MEAN_OBS>
+ <STDV_OBS>   1.00040793     </STDV_OBS>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>REF</NAME>
+ <NUM>          79 </NUM>
+ <MEAN>  0.214869365     </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>  0.997558534     </BIAS>
+ <RMSE>  -2.43989732E-02 </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          79 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.994850695     </BIAS>
+ <RMSE>  -2.43077911E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.79411346E-02 </MEAN_OBS>
+ <STDV_OBS>   1.40595192E-03 </STDV_OBS>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>REF</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   2.80043430E-04 </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>  0.130514532     </BIAS>
+ <RMSE>  0.345152110     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.130480379     </BIAS>
+ <RMSE>  0.374107569     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.448529482     </MEAN_OBS>
+ <STDV_OBS>   9.79304016E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>REF</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   1.93014704E-02 </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>  0.673223734     </BIAS>
+ <RMSE>  0.488030404     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.673393607     </BIAS>
+ <RMSE>  0.479942590     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.980882287     </MEAN_OBS>
+ <STDV_OBS>   2.38860752E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>REF</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   1.71607491E-02 </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>   1.64597011     </BIAS>
+ <RMSE>  0.256381303     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.64608216     </BIAS>
+ <RMSE>  0.250968993     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.350000173     </MEAN_OBS>
+ <STDV_OBS>   4.58650850E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>REF</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   7.51809590E-03 </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>  0.725672781     </BIAS>
+ <RMSE>  0.582485557     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.725246012     </BIAS>
+ <RMSE>  0.583916485     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.299999982     </MEAN_OBS>
+ <STDV_OBS>  0.206780761     </STDV_OBS>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>REF</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   3.07895225E-02 </MEAN>
+ <STDV>   4.34691389E-24 </STDV>
+ <BIAS>  0.630045533     </BIAS>
+ <RMSE>   6.31209165E-02 </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.630632102     </BIAS>
+ <RMSE>   6.34322986E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.164705932     </MEAN_OBS>
+ <STDV_OBS>  0.327205986     </STDV_OBS>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>REF</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   8.97078291E-02 </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>  0.371544272     </BIAS>
+ <RMSE>  0.565910995     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.371673107     </BIAS>
+ <RMSE>  0.567062318     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.905882478     </MEAN_OBS>
+ <STDV_OBS>   1.58404040     </STDV_OBS>
+ <EXP>
+ <ID>        3002 </ID>
+ <NAME>REF</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>  0.735506475     </MEAN>
+ <STDV>   4.59808089E-24 </STDV>
+ <BIAS>   1.51978898     </BIAS>
+ <RMSE>  0.368057817     </RMSE>
+ <CORR>   4.59796729E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3002 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48877132     </BIAS>
+ <RMSE>  0.503775299     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.394117594     </MEAN_OBS>
+ <STDV_OBS>   4.38268250E-03 </STDV_OBS>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>REF</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   1.01605465E-03 </MEAN>
+ <STDV>   4.59797992E-24 </STDV>
+ <BIAS>  0.882546186     </BIAS>
+ <RMSE>  0.673004508     </RMSE>
+ <CORR>   4.31539732E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         136 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.882544219     </BIAS>
+ <RMSE>  0.674756050     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.219047636     </MEAN_OBS>
+ <STDV_OBS>  0.293820858     </STDV_OBS>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>REF</NAME>
+ <NUM>         126 </NUM>
+ <MEAN>   9.15213451E-02 </MEAN>
+ <STDV>   4.31538470E-24 </STDV>
+ <BIAS>  0.781569183     </BIAS>
+ <RMSE>  0.237989023     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>         126 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.781441629     </BIAS>
+ <RMSE>  0.237451032     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.561111212     </MEAN_OBS>
+ <STDV_OBS>  0.273924410     </STDV_OBS>
+ <EXP>
+ <ID>        6400 </ID>
+ <NAME>REF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.119953819     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>  0.636821330     </BIAS>
+ <RMSE>  0.112901792     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6400 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.637233436     </BIAS>
+ <RMSE>  0.112658359     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.367647082     </MEAN_OBS>
+ <STDV_OBS>   1.19382713E-03 </STDV_OBS>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>REF</NAME>
+ <NUM>          68 </NUM>
+ <MEAN>   3.94931791E-04 </MEAN>
+ <STDV>   4.59796729E-24 </STDV>
+ <BIAS>  0.517011940     </BIAS>
+ <RMSE>  0.440497100     </RMSE>
+ <CORR>   4.31616725E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          68 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.516945660     </BIAS>
+ <RMSE>  0.444731593     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.396721303     </MEAN_OBS>
+ <STDV_OBS>   8.57496751E-04 </STDV_OBS>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>REF</NAME>
+ <NUM>          61 </NUM>
+ <MEAN>   2.72153819E-04 </MEAN>
+ <STDV>   4.31615462E-24 </STDV>
+ <BIAS>  0.476654291     </BIAS>
+ <RMSE>  0.390551835     </RMSE>
+ <CORR>   4.34691389E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          61 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.476657659     </BIAS>
+ <RMSE>  0.404733986     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.26470637     </MEAN_OBS>
+ <STDV_OBS>   2.88268709     </STDV_OBS>
+ <EXP>
+ <ID>        3005 </ID>
+ <NAME>REF</NAME>
+ <NUM>          68 </NUM>
+ <MEAN>   2.33120131     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>   2.25599337     </BIAS>
+ <RMSE>  0.392508328     </RMSE>
+ <CORR>   4.31538470E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3005 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          68 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.64585257     </BIAS>
+ <RMSE>  0.423263371     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.32647109     </MEAN_OBS>
+ <STDV_OBS>   3.81290388     </STDV_OBS>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>REF</NAME>
+ <NUM>          68 </NUM>
+ <MEAN>   1.49875093     </MEAN>
+ <STDV>   4.31616725E-24 </STDV>
+ <BIAS>   1.48722923     </BIAS>
+ <RMSE>  0.881139636     </RMSE>
+ <CORR>   4.59779690E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          68 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.09392118     </BIAS>
+ <RMSE>  0.897783816     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.173529401     </MEAN_OBS>
+ <STDV_OBS>  0.672653198     </STDV_OBS>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>REF</NAME>
+ <NUM>          68 </NUM>
+ <MEAN>  0.273211420     </MEAN>
+ <STDV>   4.31539732E-24 </STDV>
+ <BIAS>  0.864143789     </BIAS>
+ <RMSE>  0.139356390     </RMSE>
+ <CORR>   4.59992998E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>NORADAR</NAME>
+ <NUM>          68 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.744946122     </BIAS>
+ <RMSE>  0.314917505     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
